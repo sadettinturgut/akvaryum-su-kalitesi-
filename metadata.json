@@ -1,0 +1,5 @@
+{
+  "name": "Akvaryum Su Kalitesi Takibi",
+  "description": "Akvaryumunuzun su kalitesi parametrelerini gerçek zamanlı olarak izlemek ve geçmiş verileri görselleştirmek için bir web uygulaması.",
+  "requestFramePermissions": []
+}
